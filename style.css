@@ -1,0 +1,41 @@
+body{
+    background-color: #444444
+}
+
+.center{
+    text-align: center
+}
+
+.container{
+    padding: 75px;
+    background-color: #e0e0e0;
+    height: 100vh;
+}
+
+.logo{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+.content{
+    margin: 25px
+}
+
+.title-text{
+    margin: 30px 0px 0px 0px
+}
+
+.marginLeft{
+    padding-left: 15px
+}
+
+.dob-text{
+    font-size: 25px;
+    margin: 30px 0px 30px 0px
+}
+
+.btnSize{
+    width: 100px;
+    margin-top: 60px
+}
